@@ -32,7 +32,7 @@
 #include "gazebo/util/system.hh"
 
 // Social Force Model
-#include <lightsfm/sfm.hpp>
+#include <lightsfm/include/sfm.hpp>
 
 namespace gazebo
 {
